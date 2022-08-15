@@ -4,6 +4,7 @@ body {
 }
 .form {
   padding: 40px;
+  max-width: 100vh;
 }
 .form-item {
   padding-bottom: 24px;
